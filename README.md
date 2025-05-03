@@ -65,7 +65,7 @@ These are **essential** MoE papers for understanding the field:
 - **[📜 DSelect-k: Differentiable Selection in MoE for Multi-Task Learning (NeurIPS 2021)](https://arxiv.org/abs/2106.03760)**  
 - **[📜 CPM-2: Large-scale Cost-effective Pre-trained Language Models (AI Open)](https://www.sciencedirect.com/science/article/pii/S2666651021000310)**  
 - **[📜 Mixture of Experts: A Literature Survey (Artificial Intelligence Review)](https://link.springer.com/article/10.1007/s10462-012-9338-y)**  
-- **[📜 LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes ](https://arxiv.org/pdf/2501.04004)[🛠️](https://github.com/Xiangxu-0103/LiMoE)** 
+- **[📜 LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes ](https://arxiv.org/pdf/2501.04004)[Code 🛠️](https://github.com/Xiangxu-0103/LiMoE)** 
 
 ### 📚 arXiv
 
