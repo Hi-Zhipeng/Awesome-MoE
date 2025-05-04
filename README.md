@@ -66,6 +66,7 @@ These are **essential** MoE papers for understanding the field:
 - **[📜 CPM-2: Large-scale Cost-effective Pre-trained Language Models (AI Open)](https://www.sciencedirect.com/science/article/pii/S2666651021000310)**  
 - **[📜 Mixture of Experts: A Literature Survey (Artificial Intelligence Review)](https://link.springer.com/article/10.1007/s10462-012-9338-y)**  
 - **[📜 LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes ((CVPR 2025))](https://arxiv.org/pdf/2501.04004) [🔗 Repo](https://github.com/Xiangxu-0103/LiMoE)** 
+- **[📜 MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders ((CVPR 2025))](https://arxiv.org/pdf/2501.01709) [🔗 Repo](https://github.com/hey-cjj/MoVE-KD)** 
 
 ### 📚 arXiv
 
